@@ -10,17 +10,11 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/kingelyas/AAM
+git clone https://github.com/kingelyas/shah
 
-cd AAM
+cd shah
 
-pip2 install requests
-
-pip2 install mechanize
-
-chmod +x *
-
-python2 ELYAS
+python2 ELYAS.py
 
 #USENAME = arman
 
