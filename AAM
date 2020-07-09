@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 #coding=utf-8
-#This Script Is Written By Arman-Amprator
+#This Script Is Written By shahelyas
   #=================================#
-  #Tech-Arman The Official Programmrer#   
+  #Tech-elyas The Official Programmrer#   
   #                                 #
   #                                 #
   #=================================#
@@ -127,7 +127,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print """
 \033[1;32m╔════•ೋೋ•ೋೋ•════════════╗
-\033[1;96m  •••ARMAN_HACKER420•••
+\033[1;96m  •••ELYAS_HACKER•••
 \033[1;32m╚════•ೋೋ•ೋೋ•════════════╝"""
  
 jalan('\033[0;33m⚚═╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌═⚚')
